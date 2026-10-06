@@ -2,7 +2,7 @@
 
 > AgroAssist is a machine-learning-powered crop recommendation system that helps farmers identify the most suitable crop based on soil nutrients and environmental conditions.
 
-The application uses a **Random Forest Classifier** and an interactive **Streamlit** web interface to recommend crops based on seven important parameters: Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
+The application uses a  interactive **Streamlit** web interface to recommend crops based on seven important parameters: Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall.
 
 ---
 
